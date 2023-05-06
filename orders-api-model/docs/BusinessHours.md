@@ -1,0 +1,10 @@
+# BusinessHours
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**DayOfWeek** | **string** | Day of the week. | [optional] [default to null]
+**OpenIntervals** | [**[]OpenInterval**](OpenInterval.md) | Time window during the day when the business is open. | [optional] [default to null]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
