@@ -1,1 +1,0 @@
-# amz-sp-api-gosdk
