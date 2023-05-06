@@ -1,0 +1,10 @@
+# AmazonPrepFeesDetails
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**PrepInstruction** | [***PrepInstruction**](PrepInstruction.md) |  | [optional] [default to null]
+**FeePerUnit** | [***Amount**](Amount.md) |  | [optional] [default to null]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+

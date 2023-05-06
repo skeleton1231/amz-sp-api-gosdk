@@ -1,0 +1,10 @@
+# PostContentDocumentResponse
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Warnings** | [***[]ModelError**](array.md) |  | [optional] [default to null]
+**ContentReferenceKey** | **string** |  | [default to null]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
